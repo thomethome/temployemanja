@@ -1,2 +1,2 @@
 # temployemanja
-Templo Universal Yemanjá – site oficial
+Templo Universal Yemanja – site oficial
